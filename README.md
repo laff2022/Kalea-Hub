@@ -11,4 +11,4 @@ Content covers python, Javascript, CSS, Kuberneters, go, data science, machine l
 
 (Follow-up content will continue to be added)
 
-Translated with www.DeepL.com/Translator (free version)
+
